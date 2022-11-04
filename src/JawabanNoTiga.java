@@ -1,5 +1,6 @@
 public class JawabanNoTiga {
     public static void main(String[] args) {
         System.out.println("hello kelas 1E");
+        int[] angka = new int[4];
     }
 }
